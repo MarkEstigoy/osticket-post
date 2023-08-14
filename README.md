@@ -139,6 +139,50 @@ Next click on "Teams", select "Level II Support" group and press "Add" too put t
 <img src="https://i.ibb.co/JRFHWS5/step3-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+Create another agent replicating the same steps, for this agent we will name him "John Doe" 
+</p>
+<br />
+<img src="https://i.ibb.co/CsjNbSk/step3-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once we configured the agents, we will move onto creating the "Users" for osTicket. Start this by selecting the "Agent Panel" option too switch pages
+</p>
+<br />
+<img src="https://i.ibb.co/rk9MRbZ/step3-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once you switch pages, select the "Users" tab and click "Add User"
+</p>
+<br />
+<img src="https://i.ibb.co/0jVT8DJ/step3-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Give the user a name and email, select "Add User" after to finish creating. For this example we went with Karen/karen@gmail.com 
+</p>
+<br />
+<img src="https://i.ibb.co/M9z4rWv/step3-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Create another user, this time we went with Ken/ken@gmail.com. Congratulations now you know how too create two users for osTicket!
+</p>
+<br />
+<img src="https://i.ibb.co/ryhFB3p/step3-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we will configure "SLA" (Service Level Agreements), this will help determine the ticket level severity. Too begin, go back too the "Admin Panel" page, click "Manage" tab and "SLA". Once your under the "SLA" tab, click "Add New SLA Plan"
+</p>
+<br />
+<img src="https://i.ibb.co/XxdQgPg/step4-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+We will start with SEV-A (SEV for severity) category. Grace period is 1 and schedule is 24/7. This means that once the ticket is created , it must be DONE in 1 hour when its created. 24/7 period basically means at anytime of the day
+</p>
+<br />
+<img src="https://i.ibb.co/7bffyD9/step4-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
 
 
 
