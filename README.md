@@ -51,5 +51,13 @@ Create a role called "Supreme Admin" this will serve as the role too control eve
 <img src="https://i.ibb.co/d5mSR4G/step1-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+Check mark all the boxes for "Tickets/Tasks/Knowledge Base" too grant permission. Press "Add role" afterwards too complete the setup
+</p>
+<br />
+<img src="https://i.ibb.co/LJzdHB8/step1-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/rw1J7XJ/step1-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/ZBDdH9r/step1-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
 
