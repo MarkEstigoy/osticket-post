@@ -113,6 +113,34 @@ Next we will want too make sure that anyone is allowed too create tickets. Too c
 <img src="https://i.ibb.co/cC6sNV5/step2-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+Next we will want too create new agents and setup their accounts. Start by clicking the "Agents" tab and selecting the "Add New Agent" option 
+</p>
+<br />
+<img src="https://i.ibb.co/1fWH0m5/step2-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+It should take you too the account creation page, fill in the blank space and set a password. For this example we are going with "Jane Doe" as the new agent
+</p>
+<br />
+<img src="https://i.ibb.co/hKQf8zL/step3-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/ftBtKV5/step3-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Click on the "Access" tab, make sure the agent is under "System Administrators" and "Supreme Admin" options for Primary Department* 
+</p>
+<br />
+<img src="https://i.ibb.co/84SqqZN/step3-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next click on "Teams", select "Level II Support" group and press "Add" too put them into the group. Select the "Create" button afterwards
+</p>
+<br />
+<img src="https://i.ibb.co/Mg407dH/step3-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/JRFHWS5/step3-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
 
 
 
