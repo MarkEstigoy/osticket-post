@@ -59,5 +59,34 @@ Check mark all the boxes for "Tickets/Tasks/Knowledge Base" too grant permission
 <img src="https://i.ibb.co/ZBDdH9r/step1-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
+Congratualations! You have successfully configured a "Supreme Admin" role 
+</p>
+<br />
+<img src="https://i.ibb.co/5k6VkRr/step2-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we will want too setup a new department. Click on the "Department" option
+</p>
+<br />
+<img src="https://i.ibb.co/jwjW9mg/step2-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Select "Add New Department"
+</p>
+<br />
+<img src="https://i.ibb.co/6HGhcmx/step2-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Name the new department "System Adminstrators" and leave all of it on default. Click the "Create Dept" button too complete 
+</p>
+<br />
+<img src="https://i.ibb.co/0jX7zYw/step2-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+We have now created the new department for System Adminstrators 
+</p>
+<br />
+<img src="https://i.ibb.co/QjKSbFw/step2-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
