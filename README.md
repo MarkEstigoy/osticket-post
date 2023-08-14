@@ -197,6 +197,19 @@ Congratulations! You have now created 3 SLA plans, you can observe these plans u
 </p>
 <br />
 <img src="https://i.ibb.co/j835gsR/step4-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we are going too configure new help topics. In the Admin panel go to the "Manage" tab and select "Help Topics"
+</p>
+<br />
+<img src="https://i.ibb.co/c6q57bQ/step4-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we are going too create 4 help topics (Buisness Critical Outage, Personal Computer Issues, Equipment Reset, and Password Reset) Type them in and select "Add Topic" too finalize them
+<img src="https://i.ibb.co/Gp6K2wy/step4-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/rMyhnjm/step4-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/f1w5jq8/step4-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/ynCrD8N/step4-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
