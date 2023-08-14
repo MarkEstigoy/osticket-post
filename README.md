@@ -210,6 +210,17 @@ Next we are going too create 4 help topics (Buisness Critical Outage, Personal C
 <img src="https://i.ibb.co/rMyhnjm/step4-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/f1w5jq8/step4-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.ibb.co/ynCrD8N/step4-9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br/ >
+Once thats done, you can now observe them on the help topics section 
+</p>
+<br />
+<img src="https://i.ibb.co/T4H1nHw/step5-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+</p>
+<br />
+Congratulations! You have now successfully configured your osTicket post-installation! 
 
 
 
