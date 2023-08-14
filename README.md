@@ -175,14 +175,28 @@ Next we will configure "SLA" (Service Level Agreements), this will help determin
 <img src="https://i.ibb.co/XxdQgPg/step4-0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-We will start with SEV-A (SEV for severity) category. Grace period is 1 and schedule is 24/7. This means that once the ticket is created , it must be DONE in 1 hour when its created. 24/7 period basically means at anytime of the day
+We will start with SEV-A (SEV for severity) category. Grace period is 1 and schedule is 24/7. This means that once the ticket is created , it must be DONE in 1 hour when its created. 24/7 schedule means that the ticket must be resolved at anytime of the day regardless if its the weekend. 
 </p>
 <br />
 <img src="https://i.ibb.co/7bffyD9/step4-1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
-
-
+The next SLA will be SEV-B. Grace period is 4 hours and schedule is 24/7. Tickets in this catergory must be done within 4 hours once the ticket is created. 
+</p>
+<br />
+<img src="https://i.ibb.co/wCc4smX/step4-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Last SLA we will create is SEV-C. Grace period is 8 hours, the schedule will be from Mon-Fri 8am-5pm with U.S Holidays. This means that whenever the ticket is created is must be done within 8 hours during Mon-Fri. For example, if you get a ticket on Friday at 4pm, it must be done at 3pm on Monday. 
+</p>
+<br />
+<img src="https://i.ibb.co/x8qnTTs/step4-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Congratulations! You have now created 3 SLA plans, you can observe these plans under the "SLA" tab
+</p>
+<br />
+<img src="https://i.ibb.co/j835gsR/step4-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 
 
