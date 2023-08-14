@@ -87,6 +87,34 @@ We have now created the new department for System Adminstrators
 </p>
 <br />
 <img src="https://i.ibb.co/QjKSbFw/step2-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we are going too create a new team, under the Agent's tab; select "Teams" then click on the "Add New Team" button
+</p>
+<br />
+<img src="https://i.ibb.co/wYwZZ9q/step2-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Name the new team "Level II Support" and keep the rest on default
+</p>
+<br />
+<img src="https://i.ibb.co/gyf1V8k/step2-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Select yourself as the agent (You can add as many agents as you like on the team) and press "Create Team"
+</p>
+<br />
+<img src="https://i.ibb.co/jw8cdxf/step2-7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Next we will want too make sure that anyone is allowed too create tickets. Too check this, go "Settings" tab and click "Users". Make sure the "Require registration and login too create tickets" box is unchecked, and "Public- Anyone can register" box is selected 
+</p>
+<br />
+<img src="https://i.ibb.co/cC6sNV5/step2-8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+
 
 
 
