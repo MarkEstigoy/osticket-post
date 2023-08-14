@@ -17,36 +17,39 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Windows 10</b> (21H2)
 
-<h2>Post-Install Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-
 <h2>Configuration Steps</h2>
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<br />
+The first step is logging into osTicket using the username/password we used while creating it 
+</p>
+<br />
+<img src="https://i.ibb.co/dQHBQjp/step1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Once you're in, click the "Admin" panel and it should bring you into the admin options page
+</p>
+<br />
+<img src="https://i.ibb.co/X5rpTtj/step1-2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Click on "Agents" and select the "Departments" option
+</p>
+<br />
+<img src="https://i.ibb.co/Tb01DDW/step1-3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Select the "Roles" option and click "Add New Role" too create a new role
+</p>
+<br />
+<img src="https://i.ibb.co/4NdBgs1/step1-4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.ibb.co/0ttZ5xV/step1-5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+Create a role called "Supreme Admin" this will serve as the role too control everything on osTicket 
+</p>
+<br />
+<img src="https://i.ibb.co/d5mSR4G/step1-6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
